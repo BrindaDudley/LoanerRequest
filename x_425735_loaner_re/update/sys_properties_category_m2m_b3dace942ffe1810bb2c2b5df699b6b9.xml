@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="system property">c1bac2542ffe1810bb2c2b5df699b6ab</category>
+        <order>100</order>
+        <property display_value="x_425735_loaner_re.Loaner Request" name="x_425735_loaner_re.Loaner Request">28d9c6942ffe1810bb2c2b5df699b6c8</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-19 04:47:30</sys_created_on>
+        <sys_id>b3dace942ffe1810bb2c2b5df699b6b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_425735_loaner_re.Loaner Request.system property</sys_name>
+        <sys_package display_value="Loaner Request" source="x_425735_loaner_re">f628c3632fe2d410bb2c2b5df699b611</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">f628c3632fe2d410bb2c2b5df699b611</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_b3dace942ffe1810bb2c2b5df699b6b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-19 04:47:30</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>system property</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-19 04:47:06</sys_created_on>
+        <sys_id>c1bac2542ffe1810bb2c2b5df699b6ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>system property</sys_name>
+        <sys_package display_value="Loaner Request" source="x_425735_loaner_re">f628c3632fe2d410bb2c2b5df699b611</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">f628c3632fe2d410bb2c2b5df699b611</sys_scope>
+        <sys_update_name>sys_properties_category_c1bac2542ffe1810bb2c2b5df699b6ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-19 04:47:06</sys_updated_on>
+        <title/>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=c1bac2542ffe1810bb2c2b5df699b6ab"/>
+</record_update>
